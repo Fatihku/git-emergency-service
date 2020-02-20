@@ -6,7 +6,7 @@
 ### # Delete a remote GIT branch:
     git push origin --delete <branch_name>
     
-### # Recover deleted a file in local repo 
+### # Recover a deleted file in local repo 
 #### If the deletion has not been committed, the command below will restore the deleted file in the working tree.
     git checkout -- <fileName>
 #### You can get a list of all the deleted files in the working tree using the command below.
