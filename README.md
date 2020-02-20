@@ -18,3 +18,5 @@
 
 #### In case you are looking for the path of the file to recover, the following command will display a summary of all deleted files.
     git log --diff-filter=D --summary
+    
+S: https://www.quora.com/How-can-I-recover-a-file-I-deleted-in-my-local-repo-from-the-remote-repo-in-Git
